@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rwp-ghp-react/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/rwp-ghp-react/static/js/main.27577210.chunk.js",
+    "main.js.map": "/rwp-ghp-react/static/js/main.27577210.chunk.js.map",
+    "runtime-main.js": "/rwp-ghp-react/static/js/runtime-main.eeebeb83.js",
+    "runtime-main.js.map": "/rwp-ghp-react/static/js/runtime-main.eeebeb83.js.map",
+    "static/js/2.eaf50ce0.chunk.js": "/rwp-ghp-react/static/js/2.eaf50ce0.chunk.js",
+    "static/js/2.eaf50ce0.chunk.js.map": "/rwp-ghp-react/static/js/2.eaf50ce0.chunk.js.map",
+    "static/js/3.f2b54e07.chunk.js": "/rwp-ghp-react/static/js/3.f2b54e07.chunk.js",
+    "static/js/3.f2b54e07.chunk.js.map": "/rwp-ghp-react/static/js/3.f2b54e07.chunk.js.map",
+    "index.html": "/rwp-ghp-react/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/rwp-ghp-react/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.eaf50ce0.chunk.js.LICENSE.txt": "/rwp-ghp-react/static/js/2.eaf50ce0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rwp-ghp-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eeebeb83.js",
+    "static/js/2.eaf50ce0.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.27577210.chunk.js"
+  ]
+}
